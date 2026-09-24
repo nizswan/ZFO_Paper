@@ -1,0 +1,11 @@
+# Tested package versions for Python 3.12.
+# For GPU training, use a compatible CUDA build of this PyTorch release.
+torch==2.9.1
+transformers==4.57.3
+datasets==3.6.0
+accelerate==1.15.0
+huggingface-hub==0.36.2
+tokenizers==0.22.2
+numpy==2.5.3
+prodigyopt==1.1.2
+safetensors==0.8.0
